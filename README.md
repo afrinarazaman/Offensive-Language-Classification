@@ -30,7 +30,7 @@ Multilabel classification is complex due to:
 
 ---
 
-## 🧪 Models and Results
+## Models and Results
 
 ###  1. Transformer-Based Model (`XLM-RoBERTa`)
 
@@ -78,7 +78,7 @@ Compact RNN-based model for multilingual classification.
 
 ---
 
-### 📊 . Logistic Regression (TF-IDF)
+### Logistic Regression (TF-IDF)
 
 Lightweight, interpretable baseline using TF-IDF + Logistic Regression.
 
@@ -95,7 +95,7 @@ Lightweight, interpretable baseline using TF-IDF + Logistic Regression.
 | Non-toxic (0)| 0.89     | 0.30   | 0.45     | 705     |
 | **Macro Avg** | 0.53    | 0.55   | 0.37     | 839     |
 
-📝 **Comment**: High recall but low precision → many false positives.
+**Comment**: High recall but low precision → many false positives.
 
 ---
 
